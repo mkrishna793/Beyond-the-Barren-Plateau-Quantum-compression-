@@ -111,5 +111,3 @@ python src/quantum_local_simulation.py
 If you use this work in your research, please cite:
 > Krishna, N. M. (2026). *Beyond the Barren Plateau: A Deterministic, Training-Free Quantum Image Compression Pipeline via FRQI Encoding and QFT Frequency Truncation.* Independent Research.
 
----
-*Created with ❤️ by [mkrishna793](https://github.com/mkrishna793)*
